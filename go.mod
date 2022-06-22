@@ -1,3 +1,3 @@
-module github.com/decred/slog
+module github.com/Decred-Next/slog
 
 go 1.11
